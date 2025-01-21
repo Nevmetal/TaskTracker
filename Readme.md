@@ -53,7 +53,7 @@ Para ello hacemos uso del comando list
     * `node index.js list todo`
 * #### Estado "IN-PROGRESS"
     * Hacemos uso del comando list seguido del estado "in-progress"
-    * `node index.js list in-progress
+    * `node index.js list in-progress`
 ## Links
 
 Idea del proyecto  [Project Tast Tracker](https://roadmap.sh/projects/task-tracker).
